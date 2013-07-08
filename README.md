@@ -5,13 +5,13 @@ ROMDL is a ROM downloader for http://theoldcomputer.com.
 
 This basically takes their URLs for the ROMs which has a base64 encoded part that reveals the path to the ROM.
 
-##This avoids
+##This Avoids
 * Having to login
 * Paying to have access to the restricted roms
 * Their download speed limits.
 
 ##Example URL
-For Super Mario Bros. 3 on the NES: `http://www.theoldcomputer.com/roms/getfile.php?file=Li9OaW50ZW5kby9ORVMvVVNBL1N1cGVyJTIwTWFyaW8lMjBCcm90aGVycyUyMDMuemlw`
+For Super Mario Bros. 3 on the NES: ```http://www.theoldcomputer.com/roms/getfile.php?file=Li9OaW50ZW5kby9ORVMvVVNBL1N1cGVyJTIwTWFyaW8lMjBCcm90aGVycyUyMDMuemlw```
 
 ##Decode & URL Fix
 Once you paste the full link and click the download button, The encoded part is the only thing needed and is decoded and tacked onto the base URL of http://theoldcomputer.com/roms/.

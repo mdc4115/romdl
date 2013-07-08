@@ -36,7 +36,6 @@ header($end);
 				</div>
 		</div>
 		</form>
-	<!-- <b>Download URL: </b><a href="<?php echo $link; ?>"><?php echo $link; ?></a> -->
-</div>
+	</div>
 </body>
 </html>

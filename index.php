@@ -24,7 +24,7 @@ header($end);
 		<div class="hero-unit">
 		<h1>Rom Downloader</h1>
 		<div class="row">
-			<div><p>Visit this <a href="http://www.theoldcomputer.com/roms/" target="_blank">link</a>. There you will find everything sorted by Manufacturer and then their consoles. Select a console, let's say Nintentdo <i class="icon-chevron-right icon-white"></i> NES. Then right-click on the rom you want and copy the link. Once copied Paste it into the box below and select download.</p></div>
+			<div><p>Visit this <a href="http://www.theoldcomputer.com/roms/" target="_blank">link</a>. There you will find everything sorted by Manufacturer and then their consoles. Select a console, let's say Nintendo <i class="icon-chevron-right icon-white"></i> NES. Then right-click on the rom you want and copy the link. Once copied Paste it into the box below and select download.</p></div>
 		</div>
 	</div>
 		<form class="form-horizontal" id="form" action="" method="post">
